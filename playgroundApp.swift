@@ -13,7 +13,8 @@ struct playgroundApp: App {
         WindowGroup {
 //            Snapchat()
 //            Squire()
-            MyTableView()
+//            MyTableView()
+            ContentView()
         }
     }
 }
