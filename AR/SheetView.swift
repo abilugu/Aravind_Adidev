@@ -2,7 +2,7 @@ import SwiftUI
 
 struct SheetView: View {
     @Binding var isPresented : Bool
-    @State var modelName : String = "toy_biplane_idle"
+    @State var modelName : String = "robot_walk_idle"
     
     var body: some View {
         // 1.
